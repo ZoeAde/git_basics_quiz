@@ -6,16 +6,16 @@ Zoë
 
 ###What is your favorite color?
 
-Your answer goes here
+Green
 
 ###Cats or Dogs?
 
-Your answer goes here
+Dogs!
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
+Sunny afternoon at the lake
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+Ellen DeGeneres
